@@ -5,6 +5,7 @@ Our paper is accepted by ICCV2023.
 We released a simple version of [Prost](https://www.modelscope.cn/models/damo/multi_modal_clip_vtretrieval_prost/summary) in ModelScope, which is convenient for people to use.
 ModelScope is built on the concept of "Model as a Service" (MaaS). It aims to bring together state-of-the-art machine learning models from the AI community and simplify the process of utilizing AI models in practical applications.
 
+We will release more results in subsequent journal manuscripts.
 
 ## Requirements
 ```sh
